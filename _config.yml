@@ -1,5 +1,5 @@
 # Site settings
-title: 木久 Blog
+title: 木久的骰子屋
 SEOTitle: 木久的博客 | Mujiu Blog
 header-img: img/home-bg.jpg
 email: 3527542371@qq.com
@@ -18,7 +18,7 @@ RSS: false
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
+paginate: 15
 exclude:
   [
     "less",
